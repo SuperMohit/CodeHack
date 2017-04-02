@@ -8,3 +8,6 @@ http://www.architall.com
 https://www.educative.io/collection/5668639101419520/5649050225344512
 https://www.quora.com/What-system-design-distributed-systems-+-scalability-topics-should-I-study-in-order-to-adequately-prepared-for-a-Google-Software-Engineer-interview
 https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions
+
+Dynamic programming:
+* Doubt http://www.geeksforgeeks.org/largest-rectangle-under-histogram/
