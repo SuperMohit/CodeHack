@@ -11,3 +11,15 @@ https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-que
 
 Dynamic programming:
 * Doubt http://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+
+# Partitioning
+
+Horizontal partitioning
+Vertical Partitioning
+Directory Based Partitioning
+
+# Partitioning Criteria
+Key or Hash-based partitioning
+List partitioning
+Composite partitioning
+Joins and Denormalization
